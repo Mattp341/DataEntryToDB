@@ -1,0 +1,5 @@
+C:\Users\mpawlaczyk\Documents\Visual Studio 2015\Projects\DataEntryToDB\EmployeeLogin\bin\Debug\EmployeeLogin.exe.config
+C:\Users\mpawlaczyk\Documents\Visual Studio 2015\Projects\DataEntryToDB\EmployeeLogin\obj\Debug\EmployeeLogin.csprojResolveAssemblyReference.cache
+C:\Users\mpawlaczyk\Documents\Visual Studio 2015\Projects\DataEntryToDB\EmployeeLogin\obj\Debug\DataEntryToDB.EmployeeLogin.resources
+C:\Users\mpawlaczyk\Documents\Visual Studio 2015\Projects\DataEntryToDB\EmployeeLogin\obj\Debug\EmployeeLogin.Properties.Resources.resources
+C:\Users\mpawlaczyk\Documents\Visual Studio 2015\Projects\DataEntryToDB\EmployeeLogin\obj\Debug\EmployeeLogin.csproj.GenerateResource.Cache
